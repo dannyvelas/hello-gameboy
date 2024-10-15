@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "/Users/dannyvelasquez/RemoteGit/MyGithub/Gameboy/hello-world",
+    "command": "/Users/dannyvelasquez/.bin/gbdk/bin/lcc -c -o main.o main.c",
+    "file": "main.c"
+  }
+]
